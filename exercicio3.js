@@ -2,9 +2,9 @@
 
 function verificaPositivoOuNegativo(bla) {
     if (bla >=0) {
-        return "Resultado Positivo"
+        return true
     } else {
-        return "Valor Negativo"
+        return false
     }
 }
 
