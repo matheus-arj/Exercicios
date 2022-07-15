@@ -1,4 +1,4 @@
-/* Exercicio 4 */
+/* Exercicio 4 = Retornar a média de um Aluno. */
 
 function mediaAluno (nota1, nota2){
 
