@@ -1,4 +1,4 @@
-/* Exercicio 5 */
+/* Exercicio 5 = Retornar o maior valor. */
 
 /* function maiorValor (valor1, valor2, valor3){
 

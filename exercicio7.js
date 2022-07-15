@@ -1,4 +1,4 @@
-/* exercicio 7 */
+/* exercicio 7 = Retornar o menor valor. */
 
 function menorValor(valor1, valor2, valor3) {
 

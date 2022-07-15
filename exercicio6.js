@@ -1,4 +1,4 @@
-/* Exercicio 6 */
+/* Exercicio 6 = Retornar se a letra é uma vogal. */
 function verificaVogal(letra) {
     letraMaiuscula = letra.toUpperCase()
 if (
