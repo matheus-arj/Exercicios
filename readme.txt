@@ -1,3 +1,4 @@
+git init (adicionar comandos a pasta de direcionamento)
 git add . (adiciona todos os itens/ todos itens alterados)
 git status (voce ve o que foi adicionado)
 git commit -m "" (adiciona um commit do que foi alterado)
